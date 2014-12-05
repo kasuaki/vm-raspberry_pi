@@ -1,0 +1,10 @@
+{
+  "run_list": [
+"build-essential",
+"raspberry_pi"
+
+  ],
+  "automatic": {
+    "ipaddress": "127.0.0.1"
+  }
+}

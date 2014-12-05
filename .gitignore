@@ -1,0 +1,5 @@
+/cookbooks/*
+
+.vagrant
+Berksfile.lock
+/cookbooks/
