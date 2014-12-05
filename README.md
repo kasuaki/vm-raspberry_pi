@@ -5,6 +5,7 @@ TODO: Enter the cookbook description here.
 knife solo prepare -i "D:/vagrant_home/insecure_private_key" -p 2222 vagrant@127.0.0.1 --bootstrap-version 11.12.0
 knife solo cook -p 2222 vagrant@127.0.0.1
 
+http://ict.matchy.net/2014/04/windows-vagrant-knife-solo-20144.html
 
 
 ## Supported Platforms
