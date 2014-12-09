@@ -1,6 +1,16 @@
 {
   "run_list": [
+"python",
+"java",
 "build-essential",
+"openssl",
+"openssh",
+"yum",
+"apt",
+"git",
+"vim",
+"apache2",
+"postgresql",
 "raspberry_pi"
 
   ],
